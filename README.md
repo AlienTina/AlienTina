@@ -1,4 +1,4 @@
-## Hi, I exist I guess lol
+## Hi, I exist I guess 🤷
 
 I mainly just put random personal projects I'm working on here, feel free to fork, edit, steal, do whatever with my code, I don't care lol
 
